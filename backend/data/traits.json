@@ -1,0 +1,31 @@
+[
+    {
+        "type" : "backgroundcolor",
+        "values" : 
+        [
+            "black", "white", "blue", "green"
+        ]
+    },
+    {
+        "type" : "pattern",
+        "values" : 
+        [
+            "checked", "striped", "polka", "plain"
+        ]
+    },
+    {
+        "type" : "build",
+        "values" : 
+        [
+            "slender", "stocky", "sporty"
+        ]
+    },
+    {
+        "type" : "size",
+        "values" : 
+        [
+            "small", "medium", "large", "extralarge"
+        ]
+    }
+
+]
